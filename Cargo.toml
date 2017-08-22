@@ -1,0 +1,9 @@
+[package]
+name = "libBigWig"
+version = "0.1.0"
+authors = ["6br <Mac@localhost>"]
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.29.0"
+
