@@ -5,5 +5,5 @@ authors = ["6br <Mac@localhost>"]
 build = "build.rs"
 
 [build-dependencies]
-bindgen = "0.29.0"
+bindgen = "*"
 gcc = "0.3"
