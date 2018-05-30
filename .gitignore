@@ -11,6 +11,6 @@ test/example_output.bw
 test/exampleWrite
 test/testRemoteManyContigs
 test/testBigBed
+test/testIterator
 /target/
-**/*.rs.bk
 Cargo.lock
